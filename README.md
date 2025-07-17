@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/briancusack-mcpsharepoint-badge.png)](https://mseep.ai/app/briancusack-mcpsharepoint)
+
 # Sharepoint - WIP, just for R&D ATM
 
 A Model Context Protocol server that provides access to Organisational Sharepoint.
